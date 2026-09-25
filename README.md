@@ -54,12 +54,6 @@
 
 </div>
 
-<div>
-
-<username=EllenSalgado2028&bg_color=00000000&color=2DD4BF&line=38BDF8&point=E5E9F0&area=true&area_color=2DD4BF&hide_border=true" width="90%" />
-
-</div>
-
 <br/>
 
 ### Troféus
