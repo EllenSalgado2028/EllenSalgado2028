@@ -14,10 +14,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=260&lines=%F0%9F%A7%AD+Sobre+mim" alt="Sobre mim" />
 </h2>
 
-- 🎓 Graduanda em **Sistemas de Informação** — 4º período, na **Universidade Maurício de Nassau**
-- 💻 Interessada em desenvolvimento de software e tecnologia como um todo
-- 🌱 Em constante aprendizado, construindo projetos e evoluindo a cada período
-- 📫 Você me encontra por aqui mesmo, no GitHub
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="18"/> &nbsp; Graduanda em **Sistemas de Informação** — 4º período, na **Universidade Maurício de Nassau**
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" width="18"/> &nbsp; Interessada em desenvolvimento de software e tecnologia como um todo
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f331.png" width="18"/> &nbsp; Em constante aprendizado, construindo projetos e evoluindo a cada período
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4eb.png" width="18"/> &nbsp; Você me encontra por aqui mesmo, no GitHub
 
 <br/>
 
