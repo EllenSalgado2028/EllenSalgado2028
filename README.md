@@ -41,20 +41,20 @@
 
 ### Estatísticas do GitHub
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=EllenSalgado2028&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=38BDF8&text_color=E5E9F0&ring_color=2DD4BF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenSalgado2028&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=E5E9F0&langs_count=8" width="40%" />
 
 </div>
 
-<div align="center">
+<div>
 
 <img src="https://streak-stats.demolab.com?user=EllenSalgado2028&hide_border=true&background=00000000&stroke=2DD4BF&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=E5E9F0&currStreakNum=C7D0D9&sideNums=C7D0D9&dates=8899A6" width="90%" />
 
 </div>
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EllenSalgado2028&bg_color=00000000&color=2DD4BF&line=38BDF8&point=E5E9F0&area=true&area_color=2DD4BF&hide_border=true" width="90%" />
 
@@ -64,7 +64,7 @@
 
 ### Troféus
 
-<div align="center">
+<div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=EllenSalgado2028&theme=algolia&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="90%" />
 
@@ -72,7 +72,7 @@
 
 <br/>
 
-<div align="center">
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:16425B,100:0D1B2A&height=120&section=footer" width="100%" />
 
