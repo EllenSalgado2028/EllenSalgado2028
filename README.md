@@ -12,10 +12,18 @@
 
 ## 🧭 Sobre mim
 
-- 🎓 Graduanda em **Sistemas de Informação** — 4º período pela UNIVERSIDADE MAURÍCIO DE NASSAU
-- 💻 Interessada em desenvolvimento de software e tecnologia como um todo
-- 🌱 Em constante aprendizado, construindo projetos e evoluindo a cada período
-- 📫 Você me encontra por aqui mesmo, no GitHub
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+4%C2%BA+per%C3%ADodo;%F0%9F%92%BB+Interessada+em+desenvolvimento+de+software;%F0%9F%8C%B1+Em+constante+aprendizado%2C+sempre+evoluindo;%F0%9F%93%AB+Voc%C3%AA+me+encontra+por+aqui+mesmo%2C+no+GitHub" alt="Sobre mim" />
+
+<br/><br/>
+
+![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-Sistemas%20de%20Informa%C3%A7%C3%A3o-0D1B2A?style=flat-square&logo=googlescholar&logoColor=00F5D4&labelColor=0D1B2A)
+![Período](https://img.shields.io/badge/Per%C3%ADodo-4%C2%BA-0D1B2A?style=flat-square&logo=readthedocs&logoColor=00B4D8&labelColor=0D1B2A)
+![Foco](https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-0D1B2A?style=flat-square&logo=codeforces&logoColor=00F5D4&labelColor=0D1B2A)
+![Status](https://img.shields.io/badge/Status-Aprendendo%20sempre-0D1B2A?style=flat-square&logo=leetcode&logoColor=00B4D8&labelColor=0D1B2A)
+
+</div>
 
 <br/>
 
@@ -23,14 +31,14 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=2DD4BF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=2DD4BF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=2DD4BF)
-![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=2DD4BF)
-![Java](https://img.shields.io/badge/Java-0D1B2A?style=for-the-badge&logo=openjdk&logoColor=2DD4BF)
-![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=2DD4BF)
-![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=2DD4BF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=2DD4BF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=00F5D4)
+![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=00F5D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=00F5D4)
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=00F5D4)
+![Java](https://img.shields.io/badge/Java-0D1B2A?style=for-the-badge&logo=openjdk&logoColor=00F5D4)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00F5D4)
+![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=00F5D4)
+![GitHub](https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=00F5D4)
 
 </div>
 
@@ -40,20 +48,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EllenSalgado2028&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=38BDF8&text_color=E5E9F0&ring_color=2DD4BF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenSalgado2028&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=E5E9F0&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=EllenSalgado2028&show_icons=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=00F5D4&icon_color=00B4D8&text_color=F1F5F9&ring_color=00F5D4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenSalgado2028&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=00F5D4&text_color=F1F5F9&langs_count=8" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EllenSalgado2028&hide_border=true&background=00000000&stroke=2DD4BF&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=E5E9F0&currStreakNum=E5E9F0&sideNums=E5E9F0&dates=8899A6" width="90%" />
+<img src="https://streak-stats.demolab.com?user=EllenSalgado2028&theme=dark&hide_border=true&background=0D1B2A&stroke=00F5D4&ring=00F5D4&fire=00B4D8&currStreakLabel=00F5D4&sideLabels=F1F5F9&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=8899A6" width="90%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EllenSalgado2028&bg_color=00000000&color=2DD4BF&line=38BDF8&point=E5E9F0&area=true&area_color=2DD4BF&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EllenSalgado2028&bg_color=0D1B2A&color=00F5D4&line=00B4D8&point=F1F5F9&area=true&area_color=00F5D4&hide_border=true" width="90%" />
 
 </div>
 
@@ -63,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EllenSalgado2028&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=EllenSalgado2028&theme=algolia&row=2&column=4&margin-w=8&margin-h=8&bg-color=0D1B2A&title-color=00F5D4&icon-color=00B4D8" width="90%" />
 
 </div>
 
