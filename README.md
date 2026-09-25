@@ -49,19 +49,8 @@
 
 <br/>
 
-### Troféus
-
-<div>
-
-
-</div>
-
-<br/>
-
 <div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:16425B,100:0D1B2A&height=120&section=footer" width="100%" />
-
-<sub>Feito com foco, café ☕ e algumas linhas de código a mais do que o planejado.</sub>
 
 </div>
