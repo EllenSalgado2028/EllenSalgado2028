@@ -18,7 +18,7 @@
 
 <img src="https://api.iconify.design/lucide:sprout.svg?color=%2338BDF8" width="18" valign="middle"/> &nbsp; Em constante aprendizado, construindo projetos e evoluindo a cada período
 
-<img src="https://api.iconify.design/lucide:mail.svg?color=%2338BDF8" width="18" valign="middle"/> &nbsp; Você me encontra por aqui mesmo, no GitHub
+<img src="https://api.iconify.design/lucide:mail.svg?color=%2338BDF8" width="18" valign="middle"/> &nbsp; Você me encontrou por aqui mesmo, no GitHub
 
 <br/>
 
